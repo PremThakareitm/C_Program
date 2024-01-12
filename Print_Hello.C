@@ -2,6 +2,6 @@
 int main()
 { 
 int a,b,c;
-printf("Helo Prem Here!");
+printf("Hello Prem Here!");
 return 0;
 }
